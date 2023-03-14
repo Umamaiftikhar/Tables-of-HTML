@@ -4,9 +4,6 @@
 
 <head>
 
-<style>
-</style>
-
 </head>
 <body>
 <table cellspacing="70px" cellpaddng="65px" style="margin-left:250px">
